@@ -18,7 +18,7 @@
 📱 Contact Me:
   <li><a href="https://www.facebook.com/ku4nm1N.b1gDr4goN/">Facebook: Trần Minh</li>
   <li><a href="https://twitter.com/KuanMin5">Twitter: Big DragoN</li>
-  <li>Riot ID: b1g Dr4goN #ASol</li>
+  <li>Riot ID: b1g Dr4goN #SolS</li>
   <li><a href="https://steamcommunity.com/id/kuanmingm56/">Steam: b1g Dr4goN</li>
 </ul>
 <!---
