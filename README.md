@@ -2,11 +2,11 @@
   Big Dragon is here! 🐉
 </h1>
 <p>
-  THE CELESTIAL DRAGON | RỒNG THẦN TỐI THƯỢNG
+  THE STORM DRAGON ⚡
   <br/>
   <br/>
   Also known as "Kuan Min" - my Japanese-written name <br/>
-  Or just call me "The Dragon" :))) btw I'm an Aurelion Sol (LoL) Main
+  Or just call me "Dragon" :)))
   <br/>
   <br/>
   From Hanoi University of Science (HUS) | Faculty of Mathematics, Mechanics and Informatics (MIM)
