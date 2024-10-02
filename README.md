@@ -9,10 +9,11 @@
   Or just call me "Dragon" :)))
   <br/>
   <br/>
-  From Hanoi University of Science (HUS) | Faculty of Mathematics, Mechanics and Informatics (MIM)
+  Student of Hanoi University of Science (VNU-HUS) | Faculty of Mathematics, Mechanics and Informatics (MIM)
   <br/>
   Specialized Major: Applied Mathematics and Informatics
   <br/>
+  <a href="https://codeforces.com/profile/Big.DragoN">Codeforces
 </p>
 <ul>
 📱 Contact Me:
