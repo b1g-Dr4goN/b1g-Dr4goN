@@ -13,7 +13,9 @@
   <br/>
   Specialized Major: Applied Mathematics and Informatics
   <br/>
-  <a href="https://codeforces.com/profile/Big.DragoN">Codeforces
+  <br/>
+  <a href="https://codeforces.com/profile/Big.DragoN">Codeforces Profile Here!
+  Just Beginner of CP :)
 </p>
 <ul>
 📱 Contact Me:
